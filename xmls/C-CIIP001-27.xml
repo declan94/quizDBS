@@ -18,4 +18,5 @@
         <node timu="一般保险就是有形的财产价值。" thisXX="是#不是" thisAnswer="不是" tixing="3"/>
         <node timu="一般保险期限一般不超过一年。" thisXX="是#不是" thisAnswer="是" tixing="3"/>
         <node timu="车辆保险属于一般保险。" thisXX="是#不是" thisAnswer="是" tixing="3"/>
-    </myfile>
+    </chapter>
+</myfile>

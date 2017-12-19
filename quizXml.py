@@ -12,8 +12,8 @@ def quiz_xml(xml_file):
 	root = dom_tree.documentElement
 	nodes = root.getElementsByTagName("node")
 	probs = [Question(node.getAttribute("timu"), node.getAttribute("thisXX"), node.getAttribute("thisAnswer"), node.getAttribute("tixing")) for node in nodes]
-	wrong_probs = []
 	while len(probs) > 0:
+		wrong_probs = []
 		random.shuffle(probs)
 		for prob in probs:
 			hint = prob.show()

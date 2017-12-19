@@ -12,8 +12,10 @@ class Question(object):
 			self.choices = choices.split('#')
 		else:
 			self.choices = choices
-		self.multi = prob_type == '2'
-		if self.multi:
+		self.prob_type = int(prob_type)
+		# 1: 单选， 2：多选， 3：判断
+		self.multi_ans = prob_type == '2'
+		if self.multi_ans:
 			self.ans = ans.split('#')
 		else:
 			self.ans = ans
@@ -22,15 +24,16 @@ class Question(object):
 		random.shuffle(self.choices)
 
 	def show(self):
-		self.shuffle_choices()
-		if self.multi:
+		if self.prob_type != 3:
+			self.shuffle_choices()
+		if self.multi_ans:
 			print("\033[1;33m多选题\033[0m")
 		print("- " + self.main_prob)
 		for i in range(0, len(self.choices)):
 			print("\t[{}] {}".format(i+1, self.choices[i]))
 		hint = "Enter your answer (1~{}) ".format(len(self.choices))
-		if self.multi:
-			return hint + " Use ',' to seperate multi choices: "
+		if self.multi_ans:
+			return hint + " Use ',' to seperate multiple choices: "
 		return hint
 
 	def _check_multi(self, ans):
@@ -63,7 +66,7 @@ class Question(object):
 			return (False, "\033[1;31m Wrong!\033[0m The correct answer is: [{}] {}".format(self.choices.index(self.ans)+1, self.ans))
 
 	def check_ans(self, ans):
-		if self.multi:
+		if self.multi_ans:
 			return self._check_multi(ans)
 		else:
 			return self._check(ans)

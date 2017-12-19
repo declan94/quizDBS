@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myfile>
+    <chapter>
+        <node timu="QDII ELN可转换票据（基本系列）产品的特点有哪些? I.与证券表现挂钩之结构性票据II.并非股票，并非定期存款III.为投资者提供较高的潜在回报IV.根据定价日价格与执行价格决定以现金或实物结算" thisXX="I#I,II#I,II,III#I,II,III,IV" thisAnswer="I,II,III,IV" jiexi="" tixing="1"/>
+        <node timu="QDII ELN可转换票据（基本系列）的产品期限下面说法不正确的是" thisXX="境外产品A（票据A）的产品期限可为31天#境外产品A（票据A）的产品期限可为3个月#境外产品A（票据A）的产品期限可为3.5个月#境外产品A（票据A）的产品期限可为6个月" thisAnswer="境外产品A（票据A）的产品期限可为31天" jiexi="" tixing="1"/>
+        <node timu="关于ELN可转换票据（基本系列）产品下面说法不正确的是" thisXX="境外产品A（票据A）期限为1至6个月，可以提前赎回#境外产品B（票据B）期限为两年，可延期，可以提前赎回#认购货币为人民币及挂钩标的当地证券市场交易货币#票据A开放给客户直接认购；票据B是在票据A到期实物结算时自动转换，不开放给其他客户直接认购" thisAnswer="境外产品A（票据A）期限为1至6个月，可以提前赎回" jiexi="" tixing="1"/>
+        <node timu="关于ELN可转换票据（基本系列）产品的交易单位，下面说法不正确的是" thisXX="在美国市场，交易单位是1单位#在美国市场，交易单位是100单位#在香港市场，交易单位可以是400单位#在香港市场，交易单位可以是1000单位" thisAnswer="在美国市场，交易单位是100单位" jiexi="" tixing="1"/>
+        <node timu="关于ELN可转换票据（基本系列）产品运作，下面说法不正确的是" thisXX="若定价日价格等于或高于境外产品票据A执行价格，将适用现金结算#若定价日价格低于境外产品票据A执行价格，将适用实物结算#若以现金结算，则客户以现金收回本金+收益#若以实物结算，则客户的本金自动转换为票据B" thisAnswer="若以实物结算，则客户的本金自动转换为票据B" jiexi="" tixing="1"/>
+        <node timu="关于ELN可转换票据（基本系列），票据A与票据B的区别在于I.票据A与挂钩标的表现挂钩；票据B追踪挂钩标的表现II.票据A开放给客户直接认购；票据B是在票据A到期实物结算时自动转换,不开放给其他客户直接认购III.票据A最短期限为31天；票据B期限为2年，银行有权决定推迟产品到期日IV.票据A不可提前赎回；票据B可每日赎回" thisXX="I,II,IV#I,III#II,III#I,II,III,IV" thisAnswer="I,II,IV" jiexi="" tixing="1"/>
+        <node timu="关于ELN可转换票据（基本系列）产品主管电话回访，下面说法不正确的是" thisXX="主管电话回访终生有效#必须在客户做完产品筛选问卷、选择ELN产品当日完成#必须在客户首次认购产品前完成#该产品操作流程中无需主管电话回访" thisAnswer="该产品操作流程中无需主管电话回访" jiexi="" tixing="1"/>
+        <node timu="客户首次购买ELN可转换票据（基本系列）产品，需要完成的包括" thisXX="完成FNA-Core及PSS#完成主管电话回访#签署QDII主协议 (Master Agreement)#以上都正确" thisAnswer="以上都正确" jiexi="" tixing="1"/>
+        <node timu="ELN可转换票据（基本系列）的费用包括：I.认购费用1.8%；II.票据A的管理费用0.6%p.a；III.票据B的管理费用0.3%p.a；IV.	票据B的买卖价差0.5%" thisXX="I, II#III, IV#II, III#I, IV" thisAnswer="III, IV" jiexi="" tixing="1"/>
+        <node timu="如果ELN可转换票据（基本系列）的年化收益为8%，投资期间为32天（全年按365天计算），则产品的发行价格为：" thisXX="95.12%#97.38%#98.45%#99.30%" thisAnswer="99.30%" jiexi="" tixing="1"/>
+        <node timu="ELN可转换票据（基本系列）的主要风险包括I.外汇汇率风险II.流动性风险III.市场风险IV.信用风险V.不能对境外产品和标的证券主张权利" thisXX="I,II,IV#I,III,V#II,III,IV,V#I,II,III,IV,V" thisAnswer="I,II,III,IV,V" jiexi="" tixing="1"/>
+        <node timu="ELN可转换票据（固定票息系列）的产品特点包括：I.固定派息机制II.下限触发机制III.触发收回机制IV.	保本机制" thisXX=" I, II#II, III#I,II, III#其它选项全是" thisAnswer="I,II, III" jiexi="" tixing="1"/>
+        <node timu="以下哪些客户可以认购ELN可转换票据（基本系列）：I.	64岁的中国境内居民个人客户II.18岁的持有香港护照的个人客户，客户已在境内居住/工作满一年，并且购买理财产品的资金全部来源于境内III.17岁的中国境内居民个人客户IV.64岁的持有美国护照的个人客户，客户已在境内居住/工作满一年，并且购买理财产品的资金全部来源于境内" thisXX="I,II,III#I,II#I,II,IV#I,II,IV" thisAnswer="I,II" jiexi="" tixing="1"/>
+        <node timu="客户在进行第一次ELN交易时，需要进行的操作包括：I.亲临星展银行的分/支行II.填写并签署QDII主协议（第一次认购），产品条款说明书，风险揭示书，认购表格，产品筛选问卷，财务需求分析（FNA）III.进行主管面谈IV.开设相关货币的结算账户V.确认客户的风险承受水平必须达到级别3或以上" thisXX="II,III#I,II,III#I,II,III,IV#以上全部" thisAnswer="I,II,III,IV" jiexi="" tixing="1"/>
+        <node timu="假如客户风险水平为3，而客户坚持认购ELN产品，则分/支行必须" thisXX="不接受客户认购ELN#要求客户填写及签署额外一份“有关自愿接受较高投资风险投资产品声明”并取得适当的批准，确保客户完全明白其发出认购指示时的投资决定#向BM申请后，允许客户认购#由两名销售人员解释并与客户共同签署" thisAnswer="不接受客户认购ELN" jiexi="" tixing="1"/>
+        <node timu="ELN产品认购后，客户资金将于何时转出" thisXX="客户认购日#产品认购截止日#认购结算日#产品初始定价日" thisAnswer="认购结算日" jiexi="" tixing="1"/>
+        <node timu="下面哪项对ELN的陈述是正确的：I.对于认购金额超过等值人民币500万元的交易，需额外取得BM+DH的审批II.该产品不设冷静期III.在产品到期后2天客户将取回100%本金保证IV.ELN需要交利息税" thisXX="I,II#I,III#II,III#以上全部" thisAnswer="I,II" jiexi="" tixing="1"/>
+        <node timu="如果认购ELN时市场价格高于最高即期价格，ELN提前提款时市场价格低于最低即期价格，则交易未成交。支行必须通知客户并将通知文件归档，同时在客户填写的认购/提前提款申请表上加盖“取消”章。 以下何种通知客户的方式是不正确的：" thisXX="微信#电邮#电话#平信" thisAnswer="微信" jiexi="" tixing="1"/>
+        <node timu="以下关于ELN的定价方法的描述哪一项是正确的" thisXX="根据上一交易日标的物的收市价格计算得来#根据上一交易日标的物的开市价格计算得来#根据交易日ELN产品销售时价格计算的来#根据交易日标的物的开市价格计算得来" thisAnswer="根据交易日ELN产品销售时价格计算的来" jiexi="" tixing="1"/>
+        <node timu="以下关于QDII的描述哪一项是正确的?I.在一国境内设立，经该国有关监管机构批准从事境外证券市场的股票、债券等有价证券业务的投资机构。II.该国有关监管机构批准III.	从事境外证券市场的股票、债券等有价证券业务IV.	是一项过渡性的制度安排" thisXX="I#I, II#I, II, III#I, II, III, IV" thisAnswer="I, II, III, IV" jiexi="" tixing="1"/>
+        <node timu="QDII (Qualified Domestic Institutional Investor) 的中文全称是什么？" thisXX="合格境内机构投资者#合格境外机构投资者#合格境内个人投资者#合格境外个人投资者" thisAnswer="合格境内机构投资者" jiexi="" tixing="1"/>
+        <node timu="以下哪些是QDII产品的优点?I.投资范围广；II.投资工具品种丰富；III.境外丰富的资产管理经验；IV.分散风险，优化资产配置；V.客人可以获得高收益" thisXX="II, III#I, II, III#I, II, IV, V#I, II, III, IV" thisAnswer="I, II, III, IV" jiexi="" tixing="1"/>
+        <node timu="目前，市场上常见的QDII产品的发行机构有：I.商业银行；II.政策性银行；III.证券公司；IV.基金公司" thisXX="I, II#III, IV#I, IV#II, III" thisAnswer="I, IV" jiexi="" tixing="1"/>
+        <node timu="QDII是在什么样的背景下产生的" thisXX="资本项目未完全放开#内地投资者有意愿进行海外投资#人民币尚未实现完全自由兑换#其它都正确" thisAnswer="其它都正确" jiexi="" tixing="1"/>
+        <node timu="关于QDII产品的购汇额度，以下说法错误的是：" thisXX="认可的金融机构需向外管局申请代客境外理财购汇额度#认可的金融机构使用自有额度进行#购买QDII产品时，个人客人自身受购汇额度限制#购买QDII产品时，个人客户自身不受购汇额度限制" thisAnswer="购买QDII产品时，个人客人自身受购汇额度限制" jiexi="" tixing="1"/>
+        <node timu="银行在开展QDII业务前，必须取得外管局审批的QDII购汇额度。以下哪项是银行已经使用的购汇额度？ " thisXX="累计购汇额度#累计结汇额度#累计购汇与累计结汇之间的差额（收益部分除外）#QDII产品销售额" thisAnswer="累计购汇与累计结汇之间的差额（收益部分除外）" jiexi="" tixing="1"/>
+        <node timu="目前国内市场上常见的3种银行QDII产品包括：I.境外票据；II.境外债券；III.境外基金；IV.境外直接商品" thisXX=" I,II,IV#I, III#II, III#I, II, III" thisAnswer="I, II, III" jiexi="" tixing="1"/>
+        <node timu="结构性票据可以与以下哪些金融资产表现挂钩？I.	证券II.	利率III.	汇率IV.	指数V.	基金" thisXX="I, II#I, II, III#III, IV, V#I, II, III, IV, V" thisAnswer="I, II, III, IV, V" jiexi="" tixing="1"/>
+        <node timu="境外基金可以分为以下哪几个类型？" thisXX="股票基金#债券基金#平衡基金#其它都是" thisAnswer="其它都是" jiexi="" tixing="1"/>
+        <node timu="债券按付息方式可以分为" thisXX="政府债券与公司债券#固定票息债券与浮动票息债券#抵押债券与信用债券#可转换债券与不可转换债券" thisAnswer="固定票息债券与浮动票息债券" jiexi="" tixing="1"/>
+        <node timu="人民币对冲款ELN是如何对冲了客户的汇率风险的" thisXX="对冲了票据A阶段的风险#对冲了票据B阶段的汇率风险#其它都是#其它都不是" thisAnswer="对冲了票据A阶段的风险" jiexi="" tixing="1"/>
+        <node timu="对于人民币对冲款ELN，票据B执行价格如何计算?" thisXX="票据B执行价格=票据B面值×（参与率×表现率-管理费率）#票据B执行价格=票据B面值÷初始汇率×（参与率×表现率-管理费率）×执行汇率#票据B执行价格=票据B面值÷初始汇率×（参与率× 表现率-管理费率）#其它都不对" thisAnswer="票据B执行价格=票据B面值÷初始汇率×（参与率×表现率-管理费率）×执行汇率" jiexi="" tixing="1"/>
+        <node timu="人民币对冲款ELN的投资货币为" thisXX="人民币#境外标的的标价货币#境外标的的标价货币或人民币#其它都不是" thisAnswer="人民币" jiexi="" tixing="1"/>
+        <node timu="ELN固定票息系列实物结算需满足以下哪些条件" thisXX="未发生触发收回事件、发生了下限触发事件、表现最差证券定价日收市价小于执行价格#发生触发收回事件、发生了下限触发事件、表现最差证券定价日收市价小于执行价格#未发生触发收回事件、发生了下限触发事件、表现最差证券定价日收市价大于等于执行价格#发生触发收回事件、未发生了下限触发事件、表现最差证券定价日收市价小于执行价格" thisAnswer="未发生触发收回事件、发生了下限触发事件、表现最差证券定价日收市价小于执行价格" jiexi="" tixing="1"/>
+    </chapter>
+</myfile>

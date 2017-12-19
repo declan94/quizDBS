@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myfile>
+    <chapter1>
+        <node timu="关于国际金融市场的形成，在1914年至二战期间，__成为世界 最大的国际金融市场？" thisXX="英国伦敦#法国巴黎#瑞士苏黎士#美国纽约" thisAnswer="美国纽约" jiexi="" tixing="1"/>
+        <node timu="货币市场（Money Market）是指金融机构与公司进行期限从__的借贷市场？" thisXX="半年到一年不等#一年至五年不等#一天到一年不等#一年以上，两年以下" thisAnswer="一天到一年不等" jiexi="" tixing="1"/>
+        <node timu="银行间同业拆借市场中最有名是LIBOR，它的意思是指：" thisXX="纽约银行同业拆借市场#巴黎银行同业拆借市场#苏黎士银行同业拆借市场#伦敦银行同业拆借市场" thisAnswer="苏黎士银行同业拆借市场" jiexi="" tixing="1"/>
+        <node timu="世界大事件，会对金融市场造成巨大影响，下列说法不正确的是：" thisXX="经济危机常常令股票市场下跌#战争对经济有负面影响，是形成资本市场的下跌的力量#经济救助事件，难以令经济改善，对资本市场形成向下的推动力#同一事件，对不同市场的影响不一定相同" thisAnswer="经济救助事件，难以令经济改善，对资本市场形成向下的推动力" jiexi="" tixing="1"/>
+        <node timu="为了实现“风险的规避，增进收益”，那一种方式是对的？" thisXX="在高收益的金融市场中增加投资比例#将全部资产投放到自己熟悉的领域#规避风险的办法是，在投资领域的选择上，尽管选择低风险的领域#完美资产配置，在不同风险的市场上合理配置" thisAnswer="完美资产配置，在不同风险的市场上合理配置" jiexi="" tixing="1"/>
+        <node timu="债券市场是国际资本市场重要组成部分，债券是一种可以流通的金融工具" thisXX="正确#错误" thisAnswer="正确" jiexi="" tixing="3"/>
+        <node timu="20世纪80年代，大量美元流出美国，成为欧洲美元，伦敦规模最大的欧洲美元市场" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+        <node timu="世界上最大的单一市场是黄金市场" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+        <node timu="伦敦是目前国际黄金市场中以期货 为主，数量较大的市场" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+        <node timu="在货币市场中，进行投资，主要是投资利率相关类的产品" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+        <node timu="国际资本市场，是指在国际范围内进行各种期限（主要指在一年以下的资金交易活动的）场所与网络" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+    </chapter1>
+    <chapter2>
+        <node timu="结构性投资产品挂钩标的通常不包括" thisXX="利率#汇率#指数#货币" thisAnswer="货币" jiexi="" tixing="1"/>
+        <node timu="在中国，根据监管的要求，结构性投资产品严格区别于定期存款，结构性投资产品的回报被称为（）而非存款的（）" thisXX="利息，利息#投资收益，投资收益#利息，投资收益#投资收益，利息" thisAnswer="投资收益，利息" jiexi="" tixing="1"/>
+        <node timu="以下哪个关于结构性投资产品的描述是正确的（）" thisXX="客户可能从内嵌的金融衍生工具中获得增强收益#客户不可能从内嵌的金融衍生工具中获得增强收益#客户不会损失本金金额#投资收益取决于挂钩标的表现" thisAnswer="客户可能从内嵌的金融衍生工具中获得增强收益" jiexi="" tixing="1"/>
+        <node timu="截至目前，以下哪个不是星展银行发行的结构性投资产品：" thisXX="100%本金返还的产品#95%本金返还的产品#90%本金返还的产品#85%本金返还的产品" thisAnswer="85%本金返还的产品" jiexi="" tixing="1"/>
+        <node timu="以下哪种说法关于结构性投资产品是正确" thisXX="到期95%/90%本金返还的产品，即在最差的情况下，客户于产品到期日只能取回95%/90%的本金金额。#结构性产品有可能收费#目前星展银行发行85%本金返还的产品#到期100%本金返还的结构性投资产品，客户即使不持有产品直至产品到期, 肯定能提前赎回并且返还100%的本金" thisAnswer="到期95%/90%本金返还的产品，即在最差的情况下，客户于产品到期日只能取回95%/90%的本金金额。" jiexi="" tixing="1"/>
+        <node timu=" 以下哪种说法是错误" thisXX="结构性投资产品是在普通存款的基础上，嵌入了金融衍生工具的一种投资产品。产品的收益取决于挂钩标的表现#客户可能从内嵌的金融衍生工具中获得增强收益 (高于定期存款利率), 但同时也有可能损失部分甚至全部的本金金额#结构性投资产品回报被称为收益而非利息#结构性投资产品回报需要交纳利息税" thisAnswer="结构性投资产品回报需要交纳利息税" jiexi="" tixing="1"/>
+        <node timu="商品可以做为结构性产品挂钩标的物吗？" thisXX="对#错" thisAnswer="对" jiexi="" tixing="1"/>
+        <node timu="结构性投资产品收益金额需要交纳利息税吗？" thisXX="需要#不需要" thisAnswer="不需要" jiexi="" tixing="1"/>
+        <node timu="购买结构性投资产品会有收费吗？" thisXX="有#没有" thisAnswer="没有" jiexi="" tixing="1"/>
+        <node timu="到期100%本金返还的结构性投资产品，客户即使不持有产品直至产品到期,肯定能得返还100%的本金。" thisXX="对#错" thisAnswer="错" jiexi="" tixing="1"/>
+    </chapter2>
+    <chapter3>
+        <node timu="相对于定期存款，以下哪个产品要素是PI特有的？" thisXX="替代货币#存款货币#期限#交易日" thisAnswer="替代货币" jiexi="" tixing="1"/>
+        <node timu="购买星盛投资有机会获得的额外收益来源于" thisXX="定存收益#外汇买卖价差#期权收益#以上都是" thisAnswer="期权收益" jiexi="" tixing="1"/>
+        <node timu="如果发生货币转换事件，使用的转换汇率为" thisXX="交易日的即期汇率#协定汇率#任一汇率#到期日的即期汇率" thisAnswer="协定汇率" jiexi="" tixing="1"/>
+        <node timu="以下对于期权费的支付正确的是" thisXX="到期行使权力，期权买方才支付期权费#到期未行使权力，期权买方才支付期权费#无论到期是否行使权力，期权买方都必须支付期权费#以上都不正确" thisAnswer="无论到期是否行使权力，期权买方都必须支付期权费" jiexi="" tixing="1"/>
+        <node timu="以下有关星盛投资说法正确的是" thisXX="星盛投资就是定期存款#星盛投资保证收益及本金#星盛投资的简称为SIP#星盛投资是一项结合外币定期存款与外汇期权的结构性投资产品" thisAnswer="星盛投资是一项结合外币定期存款与外汇期权的结构性投资产品" jiexi="" tixing="1"/>
+        <node timu="通常来说，期权金由期权的卖出方收取" thisXX="正确#错误" thisAnswer="正确" jiexi="" tixing="3"/>
+        <node timu="星盛投资是一种类似于外币定期存款的产品，与外币定期存款没有明显差异，可作为外币定期存款的替代品" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+        <node timu="星盛投资到期时，银行拥有最终的货币选择权" thisXX="正确#错误" thisAnswer="正确" jiexi="" tixing="3"/>
+        <node timu="星盛投资到期时，客户可以选择是以基础货币还是以替代货币取回赎回金额" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+        <node timu="如果期权买入方最终放弃行使权力，则期权费需要退还给期权卖出方" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+    </chapter3>
+    <chapter4>
+        <node timu="以下关于QDII的描述哪一项是正确的? I.在一国境内设立，经该国有关监管机构批准从事境外证券市场的股票、债券等有价证券业务的投资机构。II.该国有关监管机构批准；III.从事境外证券市场的股票、债券等有价证券业务；IV.是一项过渡性的制度安排" thisXX="I#I, II#I, II, III#I, II, III, IV" thisAnswer="I, II, III, IV" jiexi="" tixing="1"/>
+        <node timu="QDII (Qualified Domestic Institutional Investor) 的中文全称是什么？" thisXX="合格境内机构投资者#合格境外机构投资者#合格境内个人投资者#合格境外个人投资者" thisAnswer="合格境内机构投资者" jiexi="" tixing="1"/>
+        <node timu="以下哪些是QDII产品的优点?I.	投资范围广II.	投资工具品种丰富III.	境外丰富的资产管理经验IV.	分散风险，优化资产配置V.	客人可以获得高收益" thisXX="II, III#I, II, III#I, II, IV, V#I, II, III, IV" thisAnswer="I, II, III, IV" jiexi="" tixing="1"/>
+        <node timu="目前，市场上常见的QDII产品的发行机构有：I.商业银行II.	政策性银行III.证券公司IV.基金公司" thisXX="I, II#III, IV#I, IV#II, III" thisAnswer="I, IV" jiexi="" tixing="1"/>
+        <node timu="QDII是在什么样的背景下产生的？" thisXX="资本项目未完全放开#内地投资者有意愿进行海外投资#人民币尚未实现完全自由兑换#以上都正确" thisAnswer="以上都正确" jiexi="" tixing="1"/>
+        <node timu="关于QDII产品的购汇额度，以下说法错误的是" thisXX="认可的金融机构需向外管局申请代客境外理财购汇额度#	认可的金融机构使用自有额度进行#购买QDII产品时，个人客人自身受购汇额度限制#购买QDII产品时，个人客户自身不受购汇额度限制" thisAnswer="购买QDII产品时，个人客人自身受购汇额度限制" jiexi="" tixing="1"/>
+        <node timu="银行在开展QDII业务前，必须取得外管局审批的QDII购汇额度。以下哪项是银行已经使用的购汇额度？" thisXX="	累计购汇额度#累计结汇额度#累计购汇与累计结汇之间的差额（收益部分除外）#QDII产品销售额" thisAnswer="累计购汇与累计结汇之间的差额（收益部分除外）" jiexi="" tixing="1"/>
+        <node timu="目前国内市场上常见的3种银行QDII产品 包括：I.境外票据；II.境外债券；III.境外基金；IV.境外直接商品" thisXX="I, II, IV#I, III#II, III#I, II, III" thisAnswer="I, II, III" jiexi="" tixing="1"/>
+        <node timu="结构性票据可以与以下哪些金融资产表现挂钩？I.证券；II.利率；III.汇率；IV.指数；V.基金" thisXX="I, II#I, II, III#III, IV, V#I, II, III, IV, V" thisAnswer="I, II, III, IV, V" jiexi="" tixing="1"/>
+        <node timu="境外基金可以分为以下哪几个类型？" thisXX="股票基金#债券基金#平衡基金#以上都是" thisAnswer="以上都是" jiexi="" tixing="1"/>
+        <node timu="债券按付息方式可以分为" thisXX="政府债券与公司债券#固定票息债券与浮动票息债券#抵押债券与信用债券#可转换债券与不可转换债券" thisAnswer="固定票息债券与浮动票息债券" jiexi="" tixing="1"/>
+    </chapter4>
+    <chapter5>
+        <node timu="以下哪些途径/产品是针对解决养老需求，即能实现退休养老补充的？" thisXX="社保养老金#企业年金#个人年金#以上皆是" thisAnswer="以上皆是" jiexi="" tixing="1"/>
+        <node timu="以下哪一项不属于保险的功能：" thisXX="短期投资#长期投资#养老#储蓄与保障" thisAnswer="短期投资" jiexi="" tixing="1"/>
+        <node timu="以下各项投资工具中，风险程度最低的是：" thisXX="国债#基金#股票#信托" thisAnswer="国债" jiexi="" tixing="1"/>
+        <node timu="以下各项中，即能确保一定收益或保障，又具有较高流动性的是" thisXX="基金#股票#信托#投资类保险" thisAnswer="股票" jiexi="" tixing="1"/>
+        <node timu="目前的社保体系下，能够满足养老需求的工具或途径有" thisXX="社会养老金#企业年金#年金保险(个人年金)#银行理财产品" thisAnswer="社会养老金" jiexi="" tixing="1"/>
+        <node timu="保险作为资产传承工具是由于其具有如下功能" thisXX="资产保全/资产隔离/投资收益#子女教育#重疾保障" thisAnswer="资产保全/资产隔离/投资收益" jiexi="" tixing="1"/>
+        <node timu="传统寿险是指可以满足客户退休规划、培育子女及资产传承需求的保险产品" thisXX="正确#错误" thisAnswer="正确" jiexi="" tixing="3"/>
+        <node timu="重大疾病保险可以减轻客户如罹患重大疾病时对家庭财务冲击" thisXX="正确#错误" thisAnswer="正确" jiexi="" tixing="3"/>
+        <node timu="通常，重大疾病保险除了可以提供重大疾病治疗金，还能够为重疾期间的收入损失提供一定补偿" thisXX="正确#错误" thisAnswer="正确" jiexi="" tixing="3"/>
+        <node timu="目前我国的投资连接险融合了保险与投资功能，将保险募得资金投资于选定的境内基金从而间接投资于包括股票、债券以及货币市场的保险产品" thisXX="正确#错误" thisAnswer="正确" jiexi="" tixing="3"/>
+        <node timu="传统寿险是指可以满足客户退休规划、培育子女及长期投资需求的保险产品" thisXX="正确#错误" thisAnswer="错误" jiexi="传统寿险是指可以满足客户退休规划、培育子女及资产传承需求的保险产品" tixing="3"/>
+        <node timu="目前我国的投资连接险融合了保险与投资功能，将保险募得资金投资于选定的境外基金从而间接投资于海外市场的保险产品" thisXX="正确#错误" thisAnswer="错误" jiexi="将保险募得资金投资于选定的境内基金从而间接投资于包括股票、债券以及货币市场的保险产品" tixing="3"/>
+    </chapter5>
+    <chapter6>
+        <node timu="从2012年1月1号开始，客户可以购买高于其风险级别的产品吗？" thisXX="可以#不可以" thisAnswer="不可以" jiexi="" tixing="1"/>
+        <node timu="P5风险级别产品的起售金额为。" thisXX="5万#10万#15万#20万" thisAnswer="20万" jiexi="" tixing="1"/>
+        <node timu="从2012年1月1号开始, 销售人员须在----月内通过相应的资质考试， 考试合格线为----分，每门考试共有----次机会。" thisXX="1，70，无限#3，75，3#6，75，3#任何时间内，90，无限" thisAnswer="3，75，3" jiexi="" tixing="1"/>
+        <node timu="客户风险承受能力评估结果包括：1.风险承受能力评级及分值范围;2.客户的投资经验;3.产品筛选结果;" thisXX="仅1#1和2#1和2和3#2和3" thisAnswer="1和2和3" jiexi="" tixing="1"/>
+        <node timu="销售人员具有----资质可以给客户进行财务需求分析-核心问卷的评估，具有----资质可以给客户进行产品筛选问卷的评估。" thisXX="理财从业资格，理财从业资格#理财从业资格，RR#理财从业资格, 理财从业资格+具体产品销售资格#RR,具体产品销售资格" thisAnswer="理财从业资格, 理财从业资格+具体产品销售资格" jiexi="" tixing="1"/>
+        <node timu="销售人员日常工作准则将依此为依据。" thisXX="《个人理财业务人员工作守则》#《个人理财业务人员工作规范》" thisAnswer="《个人理财业务人员工作守则》#《个人理财业务人员工作规范》" jiexi="" tixing="2"/>
+        <node timu="对使用英文的外籍客户或可使用中英文双语的客户，如果他希望得到英文版本的财务需求调查表格打印版，在核心问卷了解您部分的第二题（您能阅读并理解哪种语言？ (可多选)）中以下那些是可以帮助客户实现的？" thisXX="仅选择中文#仅选择英文#同时选择中文及英文#仅选择英文，或者同时选择中文及英文" thisAnswer="仅选择英文" jiexi="" tixing="2"/>
+        <node timu="对使用中文的本国客户或可使用中英文双语的客户，如果他希望得到中文版本的财务需求调查表格打印版，在核心问卷了解您部分的第二题（您能阅读并理解哪种语言？ (可多选)）中以下那些是可以帮助客户实现的？" thisXX="仅选择中文#仅选择英文#同时选择中文及英文#仅选择中文，或者同时选择中文及英文" thisAnswer="仅选择中文，或者同时选择中文及英文" jiexi="" tixing="2"/>
+        <node timu="年长客户，可以购买产品的年龄上限是多少（不考虑产品tenor和系统限制）？" thisXX="65#70#75#80" thisAnswer="75" jiexi="" tixing="1"/>
+        <node timu="销售人员使用系统做财务需求分析的核心问卷和产品筛选列表时，正确的操作顺序是怎样的？" thisXX="保存->打印核心问卷或产品筛选问卷->提交给counter审核#打印核心问卷或产品筛选问卷->保存->提交给counter审核#保存->提交给counter审核->打印核心问卷或产品筛选问卷#保存->打印核心问卷或产品筛选问卷" thisAnswer="保存->打印核心问卷或产品筛选问卷->提交给counter审核" jiexi="" tixing="1"/>
+        <node timu="请选出以下全部可以从事投资理财及保险产品销售的角色。" thisXX="TA, IC, RM, TCM#RM, TCM#TA, RM, TCM#CSM, RM" thisAnswer="RM, TCM" jiexi="" tixing="1"/>
+        <node timu="风险概况问卷的第二题（您以前或现在投资于何种投资工具），以下那个答案组合，可能导致客户被确认为无投资经验，只能购买风险等级为０的产品？１.储蓄产品;  2.储蓄产品及本金100%保证的结构性产品;  3.储蓄产品及传统寿险产品;  4.传统寿险产品及债券。" thisXX="１，４#1, 3#1,2,3,4#1,2,3" thisAnswer="1, 3" jiexi="" tixing="1"/>
+        <node timu="客户的风险评级的考虑因素。" thisXX="年龄#财务状况#投资经验#投资目的#收益预期#风险偏好#流动性要求#风险认识#风险损失承受程度" thisAnswer="年龄#财务状况#投资经验#投资目的#收益预期#风险偏好#流动性要求#风险认识#风险损失承受程度" jiexi="" tixing="2"/>
+        <node timu="以下哪张/些文件要求提供给客户？" thisXX="投资产品说明书#风险揭示书#客户权益须知#投资产品认购表" thisAnswer="投资产品说明书#风险揭示书#客户权益须知#投资产品认购表" jiexi="" tixing="2"/>
+        <node timu="客户每次购买投资理财产品或保险产品，都需要重做财务需求调查的产品筛选问卷部分。" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+        <node timu="请判断以下描述：财务需求分析必须要在有音频的CCTV下进行，若为纸质版本，必须由客户本人亲笔填写并签署；若使用系统，则打印页的右下角需由客户本人签署。" thisXX="正确#错误" thisAnswer="正确" jiexi="" tixing="3"/>
+        <node timu="如果客户同意，销售人员可以替代客户完成财务需求问卷相关问题的选择及回答。" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+        <node timu="客户每次购买投资理财产品或保险产品，都需要重做财务需求调查的核心问卷部分。" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+        <node timu="客户风险承受能力评估结果等同于客户风险承受能力评级（C1-C5）。" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+        <node timu="如果客户购买澳元计价理财产品，但名下暂无澳元帐户，为享受我行可能的高息外币存款利率，在客户要求前提下，客户经理可以协助客户暂时转账到自己名下的澳元帐户做通知存款，待客户澳元账户开立成功后，再将本金连同利息做资金划转购买相应产品。" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+        <node timu="出于增进维持大客户感情关系目的，销售人员与客户共同娱乐并参与一些麻将，德州扑克，纸牌等带有彩头的社交活动是正常的，只要金额不超过５００元人民币。" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+    </chapter6>
+    <chapter7>
+        <node timu="以下关于我行基金业务的描述哪一项是正确的？" thisXX="星展银行代客境外理财产品—海外基金系列&amp;星展银行国内代销基金产品#星展银行代客境外理财产品—海外基金系列&amp;星展银行自有国内基金产品#星展银行代客境外理财产品—代销海外基金系列&amp;星展银行国内代销基金产品#星展银行代客境外理财产品—代销海外基金系列&amp;星展银行自有国内基金产品" thisAnswer="星展银行代客境外理财产品—海外基金系列&amp;星展银行国内代销基金产品" jiexi="" tixing="1"/>
+        <node timu="Morningstar基金分析工具包含哪几个功能？I.快速搜索；II.高级搜索；III.基金比较；IV.基金组合分析" thisXX="II, III#I, II, III#I, II, IV, V#I, II, III, IV" thisAnswer="I, II, III, IV" jiexi="" tixing="1"/>
+        <node timu="以下关于投资智策（Invest Wise）报告描述正确的是?I.季度更新；II.月度更新；III.包含投资市场展望及资产配置&amp;基金精选；IV.策略性资产配置模型组合和基金产品观点均由星展银行自行提供；V.策略性资产配置模型组合和基金产品观点均由国际权威Morningstar晨星提供。" thisXX="I, III#II,III, V#I, III, IV#I, III, V" thisAnswer="I, III, V" jiexi="" tixing="1"/>
+        <node timu="目前，客户可通过哪些渠道购买星展银行在架海外基金：I.分支行；II.电话；III.网银；IV.微信" thisXX="I,III#III,IV#I,II,III#I,II,III,IV" thisAnswer="I,II,III" jiexi="" tixing="1"/>
+        <node timu="目前，客户可通过哪些渠道购买星展银行在架国内代销基金：I.分支行；II.电话；III.网银；IV.微信" thisXX="I,III#II,III, V#I, III, IV#I, III, V" thisAnswer="I,III" jiexi="" tixing="1"/>
+        <node timu="基金定投是指投资人在一定的投资期间内（年），以（）时间、（  ）金额、投资某只（  ）基金" thisXX="随机、随机、封闭式#随机、固定、封闭式#固定、随机、开放式#固定、固定、开放式" thisAnswer="固定、固定、开放式" jiexi="" tixing="1"/>
+        <node timu="资产配置的主旨在于？I.分散个体风险，追求更高的投资性价比；II.构建合理的家庭财富金字塔，从财务层面实现家庭成员不同人生阶段的人生目标；III.平衡客户的收益目标和风险偏好，帮助客户在承担可以及愿意承担风险的" thisXX="I, II#II,III#I, III#I, II, III" thisAnswer="I, II, III" jiexi="" tixing="1"/>
+        <node timu="投资智策报告-投资市场展望及资产配置概况包括以下哪些内容：I.市场动态更新（包括不同地域，不同资产类别）；II.投资方法介绍（定期投资）；III.资产配置的重要性；IV.战术性投资组合；V.策略性资产配置模型" thisXX="I,II,IV#I,III,IV#II,III,V#I,II,III,IV,V" thisAnswer="I,II,III,IV,V" jiexi="" tixing="1"/>
+    </chapter7>
+</myfile>

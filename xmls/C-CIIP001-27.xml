@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<myfile>
+    <chapter>
+        <node timu="以下哪一项不属于保险的功能？（  ）" thisXX="短期投资#长期投资#养老#储蓄与保障" thisAnswer="短期投资" tixing="1"/>
+        <node timu="以下各项投资工具中，风险程度最低的是（  ）。" thisXX="国债#基金#股票#信托" thisAnswer="国债" tixing="1"/>
+        <node timu="以下各项中，即能确保一定收益或保障，又具有较高流动性的是（  ）。" thisXX="基金#股票#信托#投资类保险" thisAnswer="投资类保险" tixing="1"/>
+        <node timu="目前的我行销售的保险产品中，不是针对客户退休养老需求的工具或途径有（  ）。" thisXX="延期年金#即期年金#附带投资功能的年金#重大疾病险" thisAnswer="重大疾病险" tixing="1"/>
+        <node timu="以下哪一项不属于通过人寿保险进行资产传承的优势？（  ）" thisXX="高效省税#无需核保#具有杠杆效应#隐私保护" thisAnswer="无需核保" tixing="1"/>
+        <node timu="保险作为资产传承工具是由于其具有如下功能。（  ）" thisXX="资产保全/资产隔离#短期获利#子女教育#重疾保障" thisAnswer="资产保全/资产隔离" tixing="1"/>
+        <node timu="以下哪一项不属于一般保险？（  ）" thisXX="年金保险#信用保险#一年期高端医疗险#责任保险" thisAnswer="年金保险" tixing="1"/>
+        <node timu="相较于寿险，一般保险的特点是（  ）。" thisXX="一般保险深入生活的方方面面#一般保险更加灵活和创新#一般保险公司也可以销售短期或一年期的健康保险#以上都是" thisAnswer="以上都是" tixing="1"/>
+        <node timu="一般保险所包含的风险有哪些？（  ）" thisXX="有形资产#管理风险#合规或道德性风险#以上都是" thisAnswer="以上都是" tixing="1"/>
+        <node timu="以下哪个不属于一般保险的功能？（  ）" thisXX="为爱车投保车辆保险#为家人出游投保旅行意外保险#短期投资并获得投资收益#为家中财物投保盗抢险" thisAnswer="短期投资并获得投资收益" tixing="3"/>
+        <node timu="重大疾病保险可以减轻客户如罹患重大疾病时对家庭财务冲击。" thisXX="是#不是" thisAnswer="是" tixing="3"/>
+        <node timu="通常，重大疾病保险除了可以提供重大疾病治疗金，还能够为重疾期间的收入损失提供一定补偿。" thisXX="是#不是" thisAnswer="是" tixing="3"/>
+        <node timu="目前我国的投资连接险融合了保险与投资功能，将保险募得资金投资于选定的境外基金从而间接投资于海外市场的保险产品。" thisXX="是#不是" thisAnswer="不是" tixing="3"/>
+        <node timu="养老年金产品的缴费形式和领取形式是固有且单一的。" thisXX="是#不是" thisAnswer="不是" tixing="3"/>
+        <node timu="一般保险就是有形的财产价值。" thisXX="是#不是" thisAnswer="不是" tixing="3"/>
+        <node timu="一般保险期限一般不超过一年。" thisXX="是#不是" thisAnswer="是" tixing="3"/>
+        <node timu="车辆保险属于一般保险。" thisXX="是#不是" thisAnswer="是" tixing="3"/>
+    </myfile>

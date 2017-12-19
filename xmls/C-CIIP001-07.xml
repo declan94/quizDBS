@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myfile>
+    <chapter>
+        <node timu="“一人为众，众为一人”(One for ALL, ALL for One)体现了哪类保险的分摊损失、共助共济的要求，因此被认为是保险的起源" thisXX="火灾险#航意保险#海洋运输险#人寿保险" thisAnswer="海洋运输险" jiexi="" tixing="1"/>
+        <node timu="保险作为风险管理的一种方法，其基本作用是（  ）" thisXX="分散风险，排除损失#排除风险，消化损失#消除风险，消化损失#分散风险，补偿损失" thisAnswer="分散风险，补偿损失" jiexi="" tixing="1"/>
+        <node timu="中国已经是保险饱和(即保险密度与保险深度均以高度饱和)国家？" thisXX="正确#错误" thisAnswer="错误" jiexi="" tixing="3"/>
+        <node timu="通过以下哪些途径/产品可以解决养老需求的？" thisXX="社保养老金#企业年金#个人年金#其它选项皆是" thisAnswer="其它选项皆是" jiexi="" tixing="1"/>
+        <node timu="按照我国《保险法》的规定，投保人履行如实知义务遵循的原则是（  ）" thisXX="无限告知原则#部分告知原则#全部告知原则#询问告知原则" thisAnswer="询问告知原则" jiexi="" tixing="1"/>
+        <node timu="人们只能在一定的时间和空间内改变风险存在和发生的条件，降低风险发生的频率和损失程度，从总体上说，风险是不可能彻底消除的，这是风险的？" thisXX="普遍性#客观性#可测定性#发展性" thisAnswer="客观性" jiexi="" tixing="1"/>
+        <node timu="按保险标的划分，可将保险分为？" thisXX="强制保险与自愿保险#财产保险与人身保险#原保险与再保险#共同保险与重复保险" thisAnswer="财产保险与人身保险" jiexi="" tixing="1"/>
+        <node timu="保险公司将所承担的风险和责任的一部分或全部转移给其他保险人的一种保险是（  ）" thisXX="原保险#再保险#共同保险#重复保险" thisAnswer="再保险" jiexi="" tixing="1"/>
+        <node timu="人身保险的保险标的是（  ）" thisXX="伤残或疾病#死亡或生存#年老或疾病#生命或身体" thisAnswer="生命或身体" jiexi="" tixing="1"/>
+        <node timu="人身意外伤害保险的保险责任是（  ）" thisXX="死亡或疾病#疾病或失业#退休或残废#残废或死亡险" thisAnswer="死亡或疾病" jiexi="" tixing="1"/>
+        <node timu="保险合同主体的变更包括（  ）" thisXX="保险人的变更#投保人、被保险人的变更#受益人的变更#其它选项皆是" thisAnswer="其它选项皆是" jiexi="" tixing="1"/>
+        <node timu="以下哪类保险不属于人身保险的范畴（  ）" thisXX="人寿保险#健康保险#意外伤害保险#责任保险" thisAnswer="责任保险" jiexi="" tixing="1"/>
+        <node timu="在有效的保险合同中，对保险标的具有保险利益的人是（  ）" thisXX="保险人#投保人#受益人#保险经纪人" thisAnswer="投保人" jiexi="" tixing="1"/>
+        <node timu="人寿保险合同中的不可抗辩条款是指自保险合同订立时起，通常超过（）后，保险人将不得以投保人和被保险人在投保时违反如实告知义务为理由,而主张保险合同无效或拒绝给付保险金。（  ）" thisXX="半年#一年#两年#五年" thisAnswer="两年" jiexi="" tixing="1"/>
+        <node timu="投保人提出保单复效后，哪些是必须履行的程序（  ）" thisXX="提出复效申请并提供可保证明#付清欠缴保费及利息#付清保单借款#其它选项皆是" thisAnswer="其它选项皆是" jiexi="" tixing="1"/>
+        <node timu="根据金字塔需求理论，哪种需求属于最基本的产品定位类型（  ）" thisXX="投资#养老#资产传承#保障" thisAnswer="保障" jiexi="" tixing="1"/>
+        <node timu="以下哪个不属于银行保险个人客户中保险的功能（  ）" thisXX="人身保障#养老规划#员工福利#资产传承" thisAnswer="员工福利" jiexi="" tixing="1"/>
+        <node timu="根据人生不同阶段的保险需求，从20岁开始就需要早规划的保障最主要的是（  ）" thisXX="子女教育#意外和重疾保障#退休规划#资产传承" thisAnswer="意外和重疾保障" jiexi="" tixing="1"/>
+        <node timu="延期年金最主要可以用来解决客户哪方面的保险财务规划需求（  ）" thisXX="退休养老#理财投资#子女教育#资产传承" thisAnswer="退休养老" jiexi="" tixing="1"/>
+        <node timu="风险的不确定性体现在？" thisXX="风险是否发生不确定、发生地点不确定、产生结果不确定#风险是否发生不确定、发生时间不确定、产生结果不确定#风险发生地点不确定、发生时间不确定、产生结果不确定#风险是否发生不确定、发生时间不确定、发生地点不确定" thisAnswer="风险是否发生不确定、发生时间不确定、产生结果不确定" jiexi="" tixing="1"/>
+    </chapter>
+</myfile>

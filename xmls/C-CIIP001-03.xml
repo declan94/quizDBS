@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<myfile>
+    <chapter>
+        <node timu="以下关于PI的描述哪一项是正确的? I.PI是一种结合了外币定期存款及外汇货币期权的结构性投资产品；II.PI的回报一定高于普通定期存款的回报；III.在任何情况下，客户都能提前赎回PI；IV.PI属于保本投资产品" thisXX="I#I, II#I, II, III#II, III, IV" thisAnswer="I" tixing="1"/>
+        <node timu="PI的期限通常包括? I.1星期；II.2星期；III.1个月；IV.6个月" thisXX="I#I, II#I, II, III#II, III, IV" thisAnswer="I, II, III" tixing="1"/>
+        <node timu="根据当前的要求，以下哪种销售人员不可以销售PI? I.通过理财从业资格认证考试；II.通过PI考试；III.通过单个SIP产品的考试；IV.支行经理" thisXX="I, II#III, IV#II, IV#I, III, IV" thisAnswer="III, IV" tixing="1"/>
+        <node timu="客户在第一次进行PI交易时，需要进行的操作包括： I.亲临星展银行的分/支行；II.填写并签署《星盛投资开户表格》、《星盛投资产品条款与规章》、《风险揭示书》和《财务需求分析问卷》（FNA）表格；III.确认客户在系统内已被标注为“高净值客户”;IV.进行主管或IC回电；V.开设相关货币的结算账户；VI.确认客户的风险承受水平必须达到级别1或以上" thisXX="I, II#I, II, III, IV#I, II, III, IV,V#全部选项都正确" thisAnswer="I, II, III, IV,V" tixing="1"/>
+        <node timu="以下关于《财务需求分析问卷》（FNA）说法正确的是： I.填写FNA表格是KYC程序的一部分，任何客户在认购PI之前都必须具有有效的FNA纪录；II.FNA表格有效期为一年，并须定期复核；III.在FNA，客户的风险承受水平将按照最终分数，归入5类投资者；IV.如果客户的风险承受水平低于级别3，仍可直接认购PI产品" thisXX="I#I, II, III#I, II#II, III, IV#全部选项都正确" thisAnswer="I, II, III" tixing="1"/>
+        <node timu="以下关于PI产品相关日期，描述正确的是： I.产品的起始日通常为交易日（T）后2个营业日（T+2）II.产品期限通常包括1个月、3个月、6个月或1年III.产品定价日（T）通常为到期日前2个营业日（T-2）IV.产品期限通常包括1周，2周,1个月，2个月，3个月" thisXX="I#I, II, III#I, III, IV#全部选项都正确" thisAnswer="I, III, IV" tixing="1"/>
+        <node timu="假如客户风险水平为C2，而客户坚持认购PI产品，则分/支行必须：" thisXX="不接受客户认购PI#要求客户填写及签署额外一份“有关自愿接受较高投资风险投资产品声明”并取得适当的批准，确保客户完全明白其发出认购指示时的投资决定#向BM申请后，允许客户认购#由两名销售人员解释并与客户共同签署" thisAnswer="不接受客户认购PI" tixing="1"/>
+        <node timu="以下那一类客户不可认购PI?I.	18岁或以上65岁以下之个人客户；II.企业客户及个体户公司或；III.	以个人图章操作的帐户；IV.授权第三者代表帐户持有人下单；V.	涉美人士 " thisXX="I#I, II, III#II, III, IV#II, III, IV, V" thisAnswer="II, III, IV, V" tixing="1"/>
+        <node timu="假设客户投资本金为100,000美元，替代货币为澳元，协定汇率为0.7550，如果定价日澳元兑美元汇率为 0.7400，则客户将以哪一种货币取回本金及收益：" thisXX="美元#澳元#以美元取回本金，以澳元取回收益#以澳元取回本金，以美元取回收益" thisAnswer="澳元" tixing="1"/>
+        <node timu="假设客户投资本金为100,000美元，替代货币为欧元，协定汇率为1.0954，如果定价日欧元兑美元汇率为1.0954，则银行是否会进行货币兑换：" thisXX="会#不会#通常会，但仍然取决于银行的最终决定#通常不会，但仍然取决于银行的最终决定" thisAnswer="通常会，但仍然取决于银行的最终决定" tixing="1"/>
+        <node timu="假设客户投资本金为100,000欧元，替代货币为美元，协定汇率为1.0954，如果定价日欧元兑美元汇率为1.1000，则客户将以哪一种货币取回本金及收益：" thisXX="美元#欧元#以美元取回本金，以欧元取回收益#以欧元取回本金，以美元取回收益" thisAnswer="美元" tixing="1"/>
+        <node timu="假设客户投资本金为100,000美元，替代货币为澳元，基础货币:美元;替代货币:澳元;投资金额:100,000美元;投资期:1个月(31天);协定汇率:0.7550;利率:年化2.25%;增强收益率:年化11.50%。于定价日，澳元兑美元即期汇率为0.7580，则客户于到期日将取回多少：（  ）" thisXX="101,502.58澳元#101,184.02美元#101,167.80 美元#101,184.02 澳元" thisAnswer="101,184.02美元" tixing="1"/>
+        <node timu="假设客户投资本金为100,000美元，替代货币为英镑，基础货币:美元；替代货币:英镑；投资金额:100,000美元；投资期:1个月(31天)；协定汇率:1.4930；利率:年化2.25%。增强收益率:年化11.50%于定价日英镑元兑美元即期汇率为1.4900，则客户于到期日将取回多少收益：（  ）" thisXX="1,167.81美元#1,184.03美元#782.19英镑#793.05 英镑" thisAnswer="782.19英镑" tixing="1"/>
+        <node timu="以下那一类客户适合考虑投资PI?I.	客户有外汇投资经验并愿意持有涉及PI的两种货币；II.客户希望在中长期内以比市价低的价格买入替代货币；III.客户持有的货币走势较其他货币弱势；IV.	客户希望获取比普通定期存款更高的回报，但不愿意承受外汇风险" thisXX="I, II#I, II, III#II, III, IV#全部选项都正确" thisAnswer="I, II, III" tixing="1"/>
+        <node timu="客户非第一次认购PI时，符合资格的客户经理所该采取的步骤哪一项不正确？" thisXX="查明客户是否已经签署FNA、PI条款及规章、风险揭示书和PI开户表格#查明客户是否已备有相关货币的结算账户#接收客户所传真的认购表格并通过电话与客户确认协定汇率与增强收益率#其它步骤全部正确" thisAnswer="其它步骤全部正确" tixing="1"/>
+        <node timu="以下第一次认购所需的文件中，哪些需支行/理财中心保留正本： I.PI条款及规章；II.FNA；III.PI开户表格；IV.	PI认购表格" thisXX="II, III, IV#I, III, IV#I, II, III#I, II, III, IV" thisAnswer="I, III, IV" tixing="1"/>
+        <node timu="客户第一次亲临我行进行PI交易，需要填写《风险揭示书》，需要注意的要点是：" thisXX="客户需亲自填写自己的风险等级#客户需亲笔抄录自己已经确认该风险揭示#客户亲笔签名确认#其它选项均正确" thisAnswer="其它选项均正确" tixing="1"/>
+        <node timu="在销售PI时，以下哪些是符合资格的客户经理应该做的： I.向客户解释产品的条款、产品特征、运作方式及不同市场情况下的回报模拟；II.向客户提供自己的投资建议；III.了解客户的财务状况、投资需求及期限；IV.	将PI当普通外币定期存款向客户销售" thisXX="I, III#II, III#II,, IV#I, II, III, IV" thisAnswer="I, III" tixing="1"/>
+        <node timu="根据标准的PI销售流程，请按顺序排列符合资格的客户经理应该做的：I.向客户解释产品的条款、产品特征、运作方式及不同市场情况下的回报模拟；II.认识并了解客户的财务状况、投资需求及期限；III.为客户进行风险测试评估以确保产品对客户的合适性；IV.	向客户阐明产品的相关风险并要求客户签字确认" thisXX="I, II, III, IV#II, III, IV, I#III, I, II, IV#II, III, I, IV" thisAnswer="II, III, I, IV" tixing="1"/>
+        <node timu="请将以下第二次PI认购起的操作按时间先后顺序排列： I.核对客户的认购表格和TM回邮内的交易资料；II.接收客户的传真指令，并核对客户签署；III.致电TM及客户确定最终的协定汇率及增强收益率；IV.	将认购表格和TM回邮交给CSM/CSO核查及处理" thisXX="I, II, III, IV#II, I, III, IV#I, III ,II, IV#II, III , I, IV " thisAnswer="II, III , I, IV " tixing="1"/>
+        <node timu="PI账户与结算账户的开户姓名/实体及授权操作必须一致。若PI账户为单名户，所用之结算账户必须是单名户" thisXX="正确#错误" thisAnswer="正确" tixing="3"/>
+        <node timu="客户必须在认购表格里抄写一段风险提示的文字以确认知晓并愿意承担PI产品的相关风险。" thisXX="正确#错误" thisAnswer="错误" tixing="3"/>
+        <node timu="客户第一次下单后，符合资格的客户经理无需将FNA、PI条款与规章、风险揭示书、客户权益须知、PI开户表格和认购表格的副本交给客户。" thisXX="正确#错误" thisAnswer="错误" tixing="3"/>
+        <node timu="符合资格的客户经理必须将TM发出作为确认PI认购的FINIQ REFERENCE NO记入认购表格里（前后两页）。" thisXX="正确#错误" thisAnswer="正确" tixing="3"/>
+        <node timu="符合资格的客户经理与客户确认最终的协定汇率及增强收益率时，按既定的话稿完成录音。其主要内容可分为客户身份确认、交易详情确实及PI风险披露。" thisXX="正确#错误" thisAnswer="正确" tixing="3"/>
+        <node timu="CSM/CSO接获认购表格后（传真或正本）必须于第一时间在客户的基础货币结算账户冻结客户的投资金额" thisXX="正确#错误" thisAnswer="正确" tixing="3"/>
+        <node timu="如果客户选定的基础货币为美元，替代货币为英镑元，产品交易日即期英镑兑美元汇率为1.9890，若协定汇率距离1.9890越远（&lt;1.9890），客户的增强收益率就越低，因为投资风险越小。" thisXX="正确#错误" thisAnswer="正确" tixing="3"/>
+        <node timu="如果客户仅提供50万人民币的资产证明，是否可以下单PI。" thisXX="是#否" thisAnswer="否" tixing="3"/>
+    </chapter>
+</myfile>

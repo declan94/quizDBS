@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<myfile>
+    <chapter>
+        <node timu="以下客户信息是否都是来自FINACLE？（  ）证件类型和号码;  生日;  国籍;  职业;" thisXX="对#错" thisAnswer="对" tixing="3"/>
+        <node timu="以下描述是否正确：当客户选择“您能阅读并理解哪种语言？”为中文和英文时，系统会打印中文和英文问卷。（  ）" thisXX="对#错" thisAnswer="错" tixing="3"/>
+        <node timu="以下描述是否正确：只有当客户职业为“其他”（职业代码99）时，需要输入具体职业内容。（  ）" thisXX="对#错" thisAnswer="错" tixing="3"/>
+        <node timu="以下描述是否正确：员工客户选择不披露财务状况，不会对购买进阶复杂型产品造成影响。（  ）" thisXX="对#错" thisAnswer="对" tixing="3"/>
+        <node timu="以下描述是否正确：客户仅选择“储蓄产品”和/或“传统寿险产品”时，系统将默认风险概况第三题“您认为以下哪项能最好地描述您的投资知识或经验”的答案为“我没有任何投资或保险的经验或知识”。答案不能修改。（  ）" thisXX="对#错" thisAnswer="错" tixing="3"/>
+        <node timu="以下描述是否正确：核心问卷提交后，可进行修改。（  ）" thisXX="对#错" thisAnswer="错" tixing="3"/>
+        <node timu="以下描述是否正确：核心问卷可以在“查询CRPT历史信息”功能里提交。（  ）" thisXX="对#错" thisAnswer="对" tixing="3"/>
+        <node timu="若客户不愿意做FNA，想要先了解产品，则在客户签署《客户声明书》后，便可以向客户详细介绍相关产品。（  ）" thisXX="对#错" thisAnswer="错" tixing="3"/>
+        <node timu="CRPT的地址是？（  ）" thisXX="http://mydbs.net/Pages/MyHomePage_CN.aspx#https://10.240.134.27:9080/dbs/logon#http://www.dbs.com.cn#http://km.ct-edu.com.cn/dbs/" thisAnswer="https://10.240.134.27:9080/dbs/logon" tixing="1"/>
+        <node timu="如何退出CRPT系统？（  ）" thisXX="直接关闭浏览器#关机#点击退出#直接打开其他网页链接" thisAnswer="点击退出" tixing="1"/>
+        <node timu="如何与客户确认FNA答案？（  ）" thisXX="暗示客户选择相应风险答案满足客户购买意愿#根据客户作答实际情况，选择对应答案#直接代替客户选择#根据与客户聊天结果，模拟客户答案" thisAnswer="根据客户作答实际情况，选择对应答案" tixing="1"/>
+        <node timu="关于CRPT中几个按钮，以下描述哪些是正确的？（  ）" thisXX="按照CIF查询，能查询包括非本行客户#点击持续性产品购买记录，产品代码高亮，则表示核心问卷有效，但产品不匹配。如果整行高亮，则表示核心问卷无效#做完FNA后，需要点击提交#全部都是" thisAnswer="全部都是" tixing="1"/>
+        <node timu="同一天重做FNA，应该如何操作？（  ）" thisXX="直接重做#行长特批#行长与客户面谈，特批后重做#全部都是" thisAnswer="行长与客户面谈，特批后重做" tixing="1"/>
+        <node timu="以下关于客户投资目标选择的描述，哪项是正确的？（  ）" thisXX="根据客户此次想要认购的产品来选择#每次都全选，可以买到所有产品#根据希望通过个人的财务规划和各种投资实现的整体目标#每次只选一个" thisAnswer="根据希望通过个人的财务规划和各种投资实现的整体目标" tixing="1"/>
+        <node timu="财务状况需要考虑的因素包括：（  ）  i.	资产净值，指您的总资产减去总负债 ;  ii.每月现金流，指您的总收入减去总支出 ;  iii.	或者客户出于个人考虑勾选不披露以上信息，须与客户再次进行确认" thisXX="i#i,ii#i,ii,iii#ii,iii" thisAnswer="i,ii,iii" tixing="1"/>
+        <node timu="风险概况问卷第一题，最长的投资期限指的是？（  ）" thisXX="客户本次/单个投资产品的期限#客户本次/所有投资产品的期限总合#客户的资金可用于投资的最长投资时间#客户最近一次投资产品的期限" thisAnswer="客户的资金可用于投资的最长投资时间" tixing="1"/>
+        <node timu="我行将客户经验分为？（  ）" thisXX="有经验>无经验#有经验>经验有限#少量经验>较多经验>丰富经验#有经验>无经验>经验有限" thisAnswer="有经验>无经验>经验有限" tixing="1"/>
+        <node timu="以下描述关于CRPT中部分系统预设的答案， 哪些是正确的？（  ）" thisXX="直接跳过#无需与客户再次确认#不可以更改预设答案#与客户确认后可以更改" thisAnswer="与客户确认后可以更改" tixing="1"/>
+        <node timu="风险概况问卷第四题， 客户选择哪个选项，则必须回答“我只想投资由银行提供的到期100%本金返还型产品”？（  ）" thisXX="A#C#E#任何选项" thisAnswer="A" tixing="1"/>
+        <node timu="以下哪种选择客户的投资经验为有限？（  ）  I．储蓄产品+传统寿险产品;  II．储蓄产品+传统寿险产品+非100%本金返还型结构性产品/票据;  III．储蓄产品+传统寿险产品+100%本金返还型结构性产品;  IV．储蓄产品+传统寿险产品+有投资成分的保险产品;  V．储蓄产品+传统寿险产品+债券" thisXX="I,V#I, II, III,V#I, II, III, IV#III, IV" thisAnswer="III, IV" tixing="1"/>
+        <node timu="风险概况问卷第四题中的平均潜在损失, 不正确的是？（  ）" thisXX="可以结合过往的历史投资经验和现在的投资目标#这里的数值并不是对应某个特定产品的表现#这里的数值指投资组合的总体、平均潜在的损失和收益水平#这里的数值指此次拟购买产品的潜在损失" thisAnswer="这里的数值指此次拟购买产品的潜在损失" tixing="1"/>
+        <node timu="FNA评估结果包括？（  ）I．客户风险承受能力评级；II．客户的投资经验；III．产品筛选结果；IV．客户金融资产情况" thisXX="III, IV#I, II, III,#I, II, III, IV#III, IV" thisAnswer="I, II, III, IV" tixing="1"/>
+        <node timu="如果客户选择”银行提供的到期100%本金返还型产品”, 则不可以购买以下何种产品（  ）" thisXX="中宏长保福星重大疾病保险#中宏安行一生终身寿险#上投摩根内需动力股票型证券投资基金#贝莱德环球资产配置基金" thisAnswer="贝莱德环球资产配置基金" tixing="1"/>
+        <node timu="客户A年龄68岁,通过FNA评估,最后计算得分40分,则客户的最后风险评级为？（  ）" thisXX="C1#C2#C3#C4" thisAnswer="C2" tixing="1"/>
+        <node timu="哪些因素会影响到进阶/复杂性产品的购买？（  ）" thisXX="年龄#教育水平#财务状况和投资经验#全部都是" thisAnswer="全部都是" tixing="1"/>
+        <node timu="客户年龄为69岁，客户在风险概况问卷中选择最长投资期限为超过7年，则FNA评估结果的最长投资期限为？（  ）" thisXX="7年#6年#超过7年#永久" thisAnswer="6年" tixing="1"/>
+        <node timu="以下哪种情况下，客户可以购买进阶/复杂性产品？（  ） i.客户年龄大于或等于70岁;   ii.客户年龄超过65周岁且投资经验有限;  iii.客户年龄超过65周岁或无投资经验;  iv.客户最高教育水平为小学及以下且无投资经验;  v.客户最高教育水平为小学及以下或投资经验有限;  vi.客户选择不披露财务状况;  vii.净值范围小于人民币10万或每月现金流范围低与人民币1万元" thisXX="I, III, VI#I, II#III, V, VII#I, II, IV, VII" thisAnswer="III, V, VII" tixing="1"/>
+        <node timu="客户选择具有储蓄产品，传统寿险，有投资成分的保险产品，债券，100%本金返还型结构产品，非100%本金返还型结构性产品/票据，基金，期权， 则客户不可以购买以下何种产品？（  ）" thisXX="SIP#QD-ELN#PI#Banca" thisAnswer="QD-ELN" tixing="1"/>
+        <node timu="日终核对FNA时，发现实际FNA数量比FNA报表统计数量多，可以通过以下哪种方法确认（  ）" thisXX="通过FNA状态查询#通过日期查询#通过CIF号查询客户记录#全部都是" thisAnswer="通过CIF号查询客户记录" tixing="1"/>
+        <node timu="FNA的有效期为？（  ）" thisXX="6个月#1年#2年#3年" thisAnswer="1年" tixing="1"/>
+        <node timu="什么情况下客户无法购买任何投资产品？（  ） I.客户没有足够的流动资金应付紧急状况；  II.客户选择不披露财务状况；  III.客户年龄大于或等于75岁； IV.客户年龄大于或等于70岁" thisXX="I,IV#II,III#I,III#I,II,III" thisAnswer="I,III" tixing="1"/>
+        <node timu="在为客户做FNA的时候, 销售人员哪些行为是不被允许的？（  ）I.告知客户，其FNA仍在有效期内，无需更新；  II. 登陆CRPT系统后, 可以让客户自行更新；   III.可为满足产品风险而引导客户完成财务需求分析的某些选项；   IV.全部完成后，打印问卷，客户经理需邀请客户仔细阅读问卷所有内容，再次与客户确认问 卷答案无误，并明确告知客户的风险评估结果" thisXX="I,II,IV#II,III#I,III#I,II,III" thisAnswer="I,II,III" tixing="1"/>
+        <node timu="什么情况下客户可以更新FNA？（  ） I.FNA到期； II.客户需要做比以往更高风险的产品,RM让客户去更新；  III.FNA在有效期内,RM询问客户是否需要改变,客户自行要求更新；  IV.客户自行在网银上更新" thisXX="I,II,IV#II,III#I,III,IV#I,II,III" thisAnswer="I,III,IV" tixing="1"/>
+        <node timu="哪些情况下，禁止向以下客户具体介绍自有及代销理财产品/代销保险？（  ）（具体介绍是指，超过《星展银行投资与保险产品概览》以外的内容） I.客户已开户但从未完成FNA； II.客户FNA仍在有效期，想要了解的产品风险等级在其风险承受能力内；  III.客户FNA已过期，尚未更新； IV.客户FNA仍在有效期，但想要了解的产品风险等级高于其风险承受能力" thisXX="I,II,IV#II,III#I,III,IV#I,II,III" thisAnswer="I,III,IV" tixing="1"/>
+    </chapter>
+</myfile>

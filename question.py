@@ -45,13 +45,13 @@ class Question(object):
 		cans = ["[{}] {}".format(self.choices.index(a)+1, a) for a in self.ans]
 		cans.sort()
 		cans = "\n\t" + "\n\t".join(cans)
-		wrong_ret = (False, "\033[1;31m Wrong!\033[0m The correct answer is: " + cans)
+		wrong_ret = (False, "\033[1;31mWrong!\033[0m The correct answer is: " + cans)
 		if len(ans_idxs) != len(self.ans):
 			return wrong_ret
 		for idx in ans_idxs:
 			if not self.choices[idx-1] in self.ans:
 				return wrong_ret
-		return (True, "\033[1;32m Correct!\033[0m")
+		return (True, "\033[1;32mCorrect!\033[0m")
 
 	def _check(self, ans):
 		try:
@@ -61,9 +61,9 @@ class Question(object):
 		if ans_index < 1 or ans_index > len(self.choices):
 			return (None, None)
 		if self.choices[ans_index-1] == self.ans:
-			return (True, "\033[1;32m Correct!\033[0m")
+			return (True, "\033[1;32mCorrect!\033[0m")
 		else:
-			return (False, "\033[1;31m Wrong!\033[0m The correct answer is: [{}] {}".format(self.choices.index(self.ans)+1, self.ans))
+			return (False, "\033[1;31mWrong!\033[0m The correct answer is: [{}] {}".format(self.choices.index(self.ans)+1, self.ans))
 
 	def check_ans(self, ans):
 		if self.multi_ans:
